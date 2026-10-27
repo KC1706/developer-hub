@@ -127,4 +127,4 @@ Data retention periods vary by data source:
 
 </details>
 
-If you need additional help, contact [Harness Support](/docs/software-engineering-insights/sei-support) or visit the [Harness Community](https://join-community-slack.harness.io/).
+If you need additional help, contact [Harness Support](/docs/software-engineering-insights/sei-support) or visit the [Harness Community](https://community.harness.io/).
