@@ -240,7 +240,7 @@ Support tiers include:
 Resources available:
 - **[Documentation](../overview)** - Comprehensive guides and tutorials
 - **[Community Forum](https://community.harness.io)** - Ask questions and share experiences
-- **[Slack Community](https://community.harness.io/)** - Real-time chat with users and experts
+- **[Harness Community](https://community.harness.io/)** - Discussion with Harness SMEs and industry experts
 - **[FAQs](../resources/faqs)** - Frequently asked questions and solutions
 - **[Training Programs](https://university.harness.io)** - Structured learning paths
 

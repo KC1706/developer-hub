@@ -10,4 +10,4 @@ If you believe you have found a bug in Harness Open Source, or you would like to
 
 ## Slack
 
-For general questions and support, please join the [Harness Community Slack](https://community.harness.io/).
+For general questions and support, please join the [Harness Community](https://community.harness.io/).
